@@ -1,4 +1,4 @@
-IP: 51.250.111.153
+IP: 51.250.111.153;
 name_taski: https://pisets.ddns.net;
 name_kittygram: https://ppcaskitty.ddns.net;
 login: yc-user;
